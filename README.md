@@ -1,2 +1,2 @@
 # Portfolio-Page
-Click here to learn more about me!
+This repository highlights some of my recent work and projects. If you'd like to learn more about my background, experience, or see additional work, feel free to visit my portfolio here!
